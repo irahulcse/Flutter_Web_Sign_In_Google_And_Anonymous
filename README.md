@@ -1,7 +1,7 @@
 ![Image](images/rovers.jpg)
 # Flutter Web Sign In Google and Anonymous :boom:
 
-Integerated Firebase Authentication and tested using the Flutter Web.
+Integerated Firebase Authentication and tested using the Flutter Web. Easy to integerate and work with it.
 
 
 ### Show some love :heart: and star the repo to support the project
